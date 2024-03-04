@@ -1,3 +1,3 @@
 module github.com/eltNEG/goprogrammingbitcoin
 
-go 1.22rc1
+go 1.22
